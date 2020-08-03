@@ -1,0 +1,1 @@
+Tried out different experiments on the CIFAR-10 Dataset using Convolutional Neural Networks. See the assignment reports. See the assignment folder for codes used.
